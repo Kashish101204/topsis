@@ -3,14 +3,8 @@
 ---
 
 ## 1. Methodology
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4fa6eb4e-55b3-430a-9f2e-6b7a2ac98e58" />
 
-<p align="center">
-  <img src="assets/methodology.png" alt="Methodology Diagram" width="700">
-</p>
-
-**Workflow:**
-
-Data Collection → Data Pre-processing → TOPSIS Computation → Result Generation → Result Delivery
 
 ---
 
