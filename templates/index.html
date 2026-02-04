@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TOPSIS Web Tool</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<div class="card">
+    <h2>TOPSIS Decision Tool</h2>
+
+    <form method="POST" enctype="multipart/form-data">
+        <label>Upload CSV File</label>
+        <input type="file" name="file" required>
+
+        <label>Weights (comma separated)</label>
+        <input type="text" name="weights" placeholder="1,1,1,1" required>
+
+        <label>Impacts (+ or -)</label>
+        <input type="text" name="impacts" placeholder="+,+,-,+" required>
+
+        <label>Email ID</label>
+        <input type="email" name="email" required>
+
+        <button type="submit">Submit</button>
+    </form>
+</div>
+
+</body>
+</html>
